@@ -2,9 +2,7 @@
 templateKey: about-page
 title: About Us
 meta_title: About Us | Meals To Miles
-meta_description: >-
- We make backpacking food.
-
+meta_description: About Meals to Miles
 ---
 ## We fuel athletes
 
