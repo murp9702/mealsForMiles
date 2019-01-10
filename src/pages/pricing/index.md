@@ -13,6 +13,7 @@ pricing:
         - 60 minute session with a Registered Dietitian
         - Personalized approach based on your nutrition and adventure goals
         - Email access to a Registered Dietitian for questions
+        - Follow up appointments available
       plan: Nutrition Counseling
       price: '60'
     - description: >-
@@ -20,20 +21,21 @@ pricing:
         your meals.
       items:
         - Custom recipes tailored to your allergies and preferences
-        - Ingredients are shipped to you with assemble instructions
         - Pick the packaging to fit your adventure needs
+        - Ingredients are shipped to you with instructions on how to assemble
+        - Contact us for a personalized quote and more information
       plan: Hiker Box
-      price: $
+      price: ''
     - description: >-
         Let us handle all the logistics while you day dream about your next
-        adventure! We design your recipes, assemble, and ship them right to your
-        door. 
+        adventure! 
       items:
         - Custom recipes tailored to your allergies and preferences
         - Pick the packaging to fit your adventure needs
-        - Starting at
+        - Meals shipped to your house ready to go!
+        - Contact us for a personalized quote and more information
       plan: Zero Day
-      price: $$
+      price: $
 meta_title: Pricing | Meals to Miles
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
