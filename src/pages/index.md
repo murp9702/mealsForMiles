@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: Meals To Miles
+title: Meals To Mile
 heading: Nutrititon for athletes
 description: Customized nutrition for endurance athletes
 offerings:
