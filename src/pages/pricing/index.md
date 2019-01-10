@@ -1,36 +1,39 @@
 ---
 templateKey: pricing-page
-title: Pricing
+title: Services
 image: /img/coffee-gear.png
 pricing:
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta justo
-    justo,  non semper odio cursus in. Curabitur ligula tortor, tristique non
-    odio nec, imperdiet  mattis leo. Vivamus aliquam rhoncus tortor vitae
-    convallis. Aliquam non dui nibh. Nam  a velit at enim sagittis pellentesque.
-  heading: Monthly subscriptions
+    All our services are customizable to fit your needs. Please contact us if
+    you are looking for a service that you do not see on our website. 
+  heading: Custom Freeze-Dried Meals
   plans:
-    - description: 'Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu'
+    - description: Not sure what your body needs? We are happy to help!
       items:
-        - Lorem ipsum dolor sit amet
-        - consectetur adipiscing elit
-        - Nunc finibus sem a sem ultrices
-      plan: Pro
-      price: '50'
-    - description: Mauris vitae dolor eu mauris malesuada cursus.
+        - 60 minute session with a Registered Dietitian
+        - Personalized approach based on your nutrition and adventure goals
+        - Email access to a Registered Dietitian for questions
+      plan: Nutrition Counseling
+      price: '60'
+    - description: >-
+        We provide you with custom recipes and the materials for you to assemble
+        your meals.
       items:
-        - eget sagittis magna tempor
-        - Quisque pulvinar lorem molestie
-        - Proin at sagittis ex
-      plan: Enterprise
-      price: '80'
-    - description: 'Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus.'
+        - Custom recipes tailored to your allergies and preferences
+        - Ingredients are shipped to you with assemble instructions
+        - Pick the packaging to fit your adventure needs
+      plan: Hiker Box
+      price: $
+    - description: >-
+        Let us handle all the logistics while you day dream about your next
+        adventure! We design your recipes, assemble, and ship them right to your
+        door. 
       items:
-        - Pellentesque luctus neque id mauris accumsan
-        - nec imperdiet justo eleifend
-        - Sed eget ornare orci
-      plan: Custom
-      price: '??'
+        - Custom recipes tailored to your allergies and preferences
+        - Pick the packaging to fit your adventure needs
+        - Starting at
+      plan: Zero Day
+      price: $$
 meta_title: Pricing | Meals to Miles
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
