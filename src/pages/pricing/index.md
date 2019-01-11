@@ -33,7 +33,7 @@ pricing:
         - Meals starting at $7.00 per meal.
         - Contact us for a personalized quote
       plan: Hiker Box
-      price: ''
+      price: 7.00+
     - description: >-
         Let us handle all the logistics while you day dream about your next
         adventure! 
@@ -44,7 +44,7 @@ pricing:
         - Prices starting at $12.00 per meal
         - Contact us for a personalized quote
       plan: Zero Day
-      price: $
+      price: 12.00+
 meta_title: Services| Meals to Miles
 meta_description: Services
 ---
