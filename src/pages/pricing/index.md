@@ -8,7 +8,6 @@ pricing:
     you are looking for a service that you do not see on our website. 
   heading: Custom Freeze-Dried Meals
   plans:
-    - {}
     - description: Not sure what your body needs? We are happy to help!
       items:
         - 60 minute session with a Registered Dietitian
@@ -37,6 +36,11 @@ pricing:
         - Contact us for a personalized quote
       plan: Zero Day
       price: $
+    - description: >-
+        Custom Recipe Development- A one time fee of $25.00 per recipe, Recipes
+        are kept on file and sent to you so you always have to use again and
+        again!
+      plan: 'Base Pricing '
 meta_title: Services| Meals to Miles
 meta_description: Services
 ---
