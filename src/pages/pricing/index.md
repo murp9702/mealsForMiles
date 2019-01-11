@@ -20,27 +20,23 @@ pricing:
         We provide you with custom recipes and the materials for you to assemble
         your meals.
       items:
-        - Custom recipes tailored to your allergies and preferences
+        - Custom recipes tailored to your food sensitivities and preferences
         - Pick the packaging to fit your adventure needs
         - Ingredients are shipped to you with instructions on how to assemble
-        - Contact us for a personalized quote and more information
+        - Contact us for a personalized quote
       plan: Hiker Box
       price: ''
     - description: >-
         Let us handle all the logistics while you day dream about your next
         adventure! 
       items:
-        - Custom recipes tailored to your allergies and preferences
+        - Custom recipes tailored to your food sensativities and preferences
         - Pick the packaging to fit your adventure needs
         - Meals shipped to your house ready to go!
-        - Contact us for a personalized quote and more information
+        - Contact us for a personalized quote
       plan: Zero Day
       price: $
-meta_title: Pricing | Meals to Miles
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+meta_title: Services| Meals to Miles
+meta_description: Services
 ---
 
