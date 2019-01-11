@@ -2,7 +2,7 @@
 templateKey: home-page
 title: Meals To Miles
 heading: Custom Freeze-Dried Meals for Adventurers
-description: 'We Fuel Adventures. '
+description: .
 offerings:
   blurbs:
     - image: /img/mix-of-dried-fruits-picture-id156213698.jpg
