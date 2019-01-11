@@ -20,7 +20,7 @@ pricing:
       items:
         - A one time fee  per recipe
         - Samples of your meal are sent to you for your approval
-        - Recipes are kept on file so you can use it again and again!
+        - Recipes are kept on file so you can use it for every adventure!
       plan: 'Recipe Development '
       price: '30.00'
     - description: >-
@@ -30,7 +30,7 @@ pricing:
         - Custom recipes tailored to your dietary needs and preferences
         - Pick the packaging to fit your adventure needs
         - Ingredients are shipped to you with instructions on how to assemble
-        - Meals starting at $6.00 per meal.
+        - Meals starting at $7.00 per meal.
         - Contact us for a personalized quote
       plan: Hiker Box
       price: ''
