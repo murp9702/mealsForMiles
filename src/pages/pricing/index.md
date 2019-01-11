@@ -16,6 +16,13 @@ pricing:
         - Follow up appointments available
       plan: Nutrition Counseling
       price: '60'
+    - description: ''
+      items:
+        - Custom Recipe Development- A one time fee of $25.00 per recipe
+        - Samples of your meal are sent to you for your approval
+        - Recipes are kept on file so you can use it again and again!
+      plan: 'Recipe Development '
+      price: '25.00'
     - description: >-
         We provide you with custom recipes and the materials for you to assemble
         your meals.
@@ -36,11 +43,6 @@ pricing:
         - Contact us for a personalized quote
       plan: Zero Day
       price: $
-    - description: >-
-        Custom Recipe Development- A one time fee of $25.00 per recipe, Recipes
-        are kept on file and sent to you so you always have to use again and
-        again!
-      plan: 'Base Pricing '
 meta_title: Services| Meals to Miles
 meta_description: Services
 ---
