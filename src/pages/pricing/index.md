@@ -18,18 +18,19 @@ pricing:
       price: '60'
     - description: ''
       items:
-        - Custom Recipe Development- A one time fee of $25.00 per recipe
+        - A one time fee  per recipe
         - Samples of your meal are sent to you for your approval
         - Recipes are kept on file so you can use it again and again!
       plan: 'Recipe Development '
-      price: '25.00'
+      price: '30.00'
     - description: >-
         We provide you with custom recipes and the materials for you to assemble
         your meals.
       items:
-        - Custom recipes tailored to your food sensitivities and preferences
+        - Custom recipes tailored to your dietary needs and preferences
         - Pick the packaging to fit your adventure needs
         - Ingredients are shipped to you with instructions on how to assemble
+        - Meals starting at $6.00 per meal.
         - Contact us for a personalized quote
       plan: Hiker Box
       price: ''
@@ -37,9 +38,10 @@ pricing:
         Let us handle all the logistics while you day dream about your next
         adventure! 
       items:
-        - Custom recipes tailored to your food sensativities and preferences
+        - Custom recipes tailored to your dietary needs and preferences
         - Pick the packaging to fit your adventure needs
         - Meals shipped to your house ready to go!
+        - Prices starting at $12.00 per meal
         - Contact us for a personalized quote
       plan: Zero Day
       price: $
