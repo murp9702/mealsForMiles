@@ -8,6 +8,7 @@ pricing:
     you are looking for a service that you do not see on our website. 
   heading: Custom Freeze-Dried Meals
   plans:
+    - {}
     - description: Not sure what your body needs? We are happy to help!
       items:
         - 60 minute session with a Registered Dietitian
