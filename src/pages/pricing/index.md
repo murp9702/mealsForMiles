@@ -1,7 +1,7 @@
 ---
 templateKey: pricing-page
 title: Services
-image: /img/coffee-gear.png
+image: /img/mix-of-dried-fruits-picture-id156213698.jpg
 pricing:
   description: >-
     All our services are customizable to fit your needs. Please contact us if
