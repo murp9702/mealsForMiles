@@ -16,7 +16,7 @@ Our commitment is to provide you with the nutrition you need to keep exploring, 
 
 We look forward to fueling your next adventure!
 
-
+![](/img/image-6.jpeg)
 
 # Meet "Smiles"
 
