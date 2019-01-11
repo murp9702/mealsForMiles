@@ -31,7 +31,7 @@ pricing:
         - Custom recipes tailored to your dietary needs and preferences
         - Pick the packaging to fit your adventure needs
         - Ingredients are shipped to you with instructions on how to assemble
-        - Meals starting at $7.00 per meal.
+        - Prices starting at $7.00 per meal.
         - Contact us for a personalized quote
       plan: Hiker Box
       price: 7.00+
