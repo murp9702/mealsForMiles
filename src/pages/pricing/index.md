@@ -18,7 +18,9 @@ pricing:
       price: '60'
     - description: ''
       items:
-        - A one time fee  per recipe
+        - >-
+          A one time fee per recipe (required for Hike Box and Zero Day
+          packages)
         - Samples of your meal are sent to you for your approval
         - Recipes are kept on file so you can use it for every adventure!
       plan: 'Recipe Development '
