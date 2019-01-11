@@ -14,16 +14,8 @@ offerings:
 
         We look forward to fueling your adventure!
 testimonials:
-  - author: Vaibhav Sharma
-    quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-      diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
-      ligula. 
-  - author: Subarashi San
-    quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
-      dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
-      elit.
+  - author: ''
+    quote: Be the first to leave us a testimonial!
 meta_title: Home | Meals to Miles
 meta_description: Home
 ---
