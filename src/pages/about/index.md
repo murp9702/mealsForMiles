@@ -4,28 +4,20 @@ title: About Us
 meta_title: About Us | Meals To Miles
 meta_description: About Meals to Miles
 ---
-## We fuel athletes
+# We Fuel Adventures.
 
-Do more with better nutrition
+When my husband and I hiked the Pacific Crest Trail in 2015, we made our own custom freeze-dried meals. Flavor, price, and nutrition were aspects of our backpacking meals that we were not willing to sacrifice. After hours of pouring over recipe books and scouring the internet, we settled on 8 nutritious meals for our journey. 
 
-##In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. 
+But having custom, nutritious meals for every journey should be easier... and that is how Meal to Miles was born!
 
-Nullam dictum felis eu pede mollis 
-pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. 
-Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra 
-quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
-Etiam ultricies nisi vel augue.  Nam eget dui. *Etiam rhoncus*. Maecenas 
-tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
-Nam quam nunc, blandit vel, luctus pulvinar
+Meals to Miles specializes in creating personalized meals tailored to each adventurer's allergies, food sensitivities, and food preferences. We offer a variety of services to meet every budget- anywhere from tailor making all meals for you or providing you with the kit to assemble them yourself. 
 
-###Curabitur ullamcorper ultricies nisi.
+Our commitment is to provide you with the nutrition you need to keep exploring, all while taking care of your most important piece of gear, your body! 
 
-Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. 
-Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, 
-augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, 
-mollis sed, nonummy id, metus. 
-* Cras ultricies mi eu turpis hendrerit fringilla. 
-* Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
-* In ac dui quis mi consectetuer lacinia.
+We look forward to fueling your next adventure!
 
-**Etiam ultricies nisi vel augue!**
+![](/img/image-6.jpeg)
+
+# Meet "Smiles"
+
+Hannah "Smiles" Murphy is a registed dietitian, culinary graduate, and the hiker behind "Meals for Miles". When not dreaming about creating tasty meals, "Smiles" works as the Director of Nutrition and Clinical Dietetics in a Northern Colorado hospital. Smiles enjoys traveling, biking, cooking, snuggling her Border Collie, and spending time with her busy toddler.
