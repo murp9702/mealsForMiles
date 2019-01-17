@@ -27,13 +27,14 @@
     "gatsby-plugin-offline": "^2.0.17",
     "gatsby-plugin-react-helmet": "^3.0.2",
     "gatsby-plugin-sass": "^2.0.4",
-    "gatsby-plugin-sharp": "^2.0.13",
+    "gatsby-plugin-sharp": "^2.0.17",
     "gatsby-plugin-sitemap": "^2.0.2",
-    "gatsby-remark-images": "^3.0.0",
+    "gatsby-remark-copy-linked-files": "^2.0.8",
+    "gatsby-remark-images": "^3.0.1",
     "gatsby-remark-relative-images": "^0.2.1",
     "gatsby-source-filesystem": "^2.0.9",
     "gatsby-transformer-remark": "^2.1.13",
-    "gatsby-transformer-sharp": "^2.1.8",
+    "gatsby-transformer-sharp": "^2.1.10",
     "lodash": "^4.17.11",
     "lodash-webpack-plugin": "^0.11.5",
     "netlify-cms": "^2.2.0",
@@ -44,7 +45,8 @@
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
     "react-share": "^2.4.0",
-    "uglifyjs-webpack-plugin": "^2.0.1"
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "url-loader": "^1.1.2"
   },
   "remarkConfig": {
     "plugins": [

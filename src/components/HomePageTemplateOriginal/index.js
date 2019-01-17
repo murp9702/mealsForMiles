@@ -18,29 +18,21 @@ const HomePageTemplate = ({
       <title>{meta_title}</title>
       <meta name='description' content={meta_description} />
     </Helmet>
-    <section className='hero is-fullheight-with-navbar is-info'>
-      <div className='hero-body hero-image-background'>
-        <div className='container has-text-centered'>
+    <section className='hero is-primary is-bold'>
+      <div className='hero-body'>
+        <div className='container'>
+          <div className='columns'>
+            <div className='column is-10 is-offset-'>
+              <div className='section'>
                 <h1 className='title'>
                   {title}
                 </h1>
-                <h2 className='subtitle'>
-                  {heading}
-                  {description}
-                </h2>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
-
-
-
-
-
-
-
-  {/* Old content for home page below. Switched out to hero full page for landing page */}
-
-{/*
     <section className='section section--gradient'>
       <div className='container'>
 
@@ -48,26 +40,23 @@ const HomePageTemplate = ({
           <div className='columns'>
             <div className='column is-10 is-offset-2'>
               <div className='content'>
-                <div>
+                {/*<div>*/}
                   <h3 className='has-text-weight-semibold is-size-1 is-offset-2'>
                     {heading}
                   </h3>
                   <p>{description}</p>
-                </div>
+                {/*</div>*/
                 <Offerings gridItems={offerings.blurbs} />
-               <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
-                <Testimonials testimonials={testimonials} />
+               {/* <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
+                <Testimonials testimonials={testimonials} /> */}
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </section>
-*/}
   </div>
 )
-
 
 HomePageTemplate.propTypes = {
   title: PropTypes.string,
