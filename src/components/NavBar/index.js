@@ -12,7 +12,7 @@ const NavBar = ({toggleNavbar, isActive}) => (
             }
         `}
     render={data => (
-      <nav className='navbar is-fixed-top' aria-label='main navigation'>
+      <nav className='navbar is-fixed-top' is-warning aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
             <strong>Meals to Miles</strong>
@@ -44,7 +44,7 @@ const NavBar = ({toggleNavbar, isActive}) => (
               <div className='field is-grouped'>
                 <p className='control'>
                   <Link
-                    className='button is-primary is-outlined'
+                    className='button is-success is-outlined'
                     to='/contact'>
                             Contact Us
                   </Link>
