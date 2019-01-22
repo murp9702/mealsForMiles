@@ -8,15 +8,17 @@ pricing:
     you are looking for a service that you do not see on our website. 
   heading: Custom Freeze-Dried Meals
   plans:
-    - description: Not sure what your body needs? We are happy to help!
+    - description: >-
+        Your body is your most important piece of gear. Find out what you need
+        to fuel it properly!
       items:
         - 60 minute session with a Registered Dietitian
         - Personalized approach based on your nutrition and adventure goals
         - Email access to a Registered Dietitian for questions
         - Follow up appointments available
       plan: Nutrition Counseling
-      price: '60'
-    - description: We make a recipe for you so you don't have to think about it
+      price: '60.00'
+    - description: 'We develop custom recipes to meet your dietary needs and preferences. '
       items:
         - A one time fee per recipe
         - Recipe development required for Hike Box and Zero Day packages
@@ -28,10 +30,9 @@ pricing:
         We provide you with custom recipes and the materials for you to assemble
         your meals.
       items:
-        - Custom recipes tailored to your dietary needs and preferences
         - Pick the packaging to fit your adventure needs
         - Ingredients are shipped to you with instructions on how to assemble
-        - Prices starting at $7.00 per meal.
+        - Prices starting at $7.00 per meal
         - Contact us for a personalized quote
       plan: Hiker Box
       price: 7.00+
@@ -39,7 +40,6 @@ pricing:
         Let us handle all the logistics while you day dream about your next
         adventure! 
       items:
-        - Custom recipes tailored to your dietary needs and preferences
         - Pick the packaging to fit your adventure needs
         - Meals shipped to your house ready to go!
         - Prices starting at $12.00 per meal
