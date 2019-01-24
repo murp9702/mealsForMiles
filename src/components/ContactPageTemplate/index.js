@@ -42,6 +42,9 @@ const ContactPageTemplate = ({
         </div>
       </section>
 
+
+{/*
+
       <section className='formSection'>
         <div className='container'>
           <div className='columns'>
@@ -82,6 +85,50 @@ const ContactPageTemplate = ({
 
               </form>
 
+            </div>
+          </div>
+        </div>
+      </section>
+
+*/}
+
+
+      <section className='formSection'>
+        <div className='container'>
+          <div className='columns'>
+            <div className='column is-5 is-offset-1'>
+
+
+              <form name="contact" method="POST" data-netlify="true">
+
+                <div class='field'>
+                  <label class='label'>Your Name: </label>
+                    <div class='control has-icons-left'>
+                      <input class='input is rounded'type="text" name="name" />
+                      <span class='icon is-small is-left'>
+                      <i class='fas fa-child'></i>
+                      </span>
+                  </div>
+                </div>
+
+
+                <div class='field'>
+                  <label class='label'>Your Email:</label>
+                    <div class='control has-icons-left'>
+                     <input class='input' type="email" name="email"></input>
+                      <span class='icon is-small is-left'>
+                      <i class='fas fa-envelope'></i>
+                      </span>
+                    </div>
+                </div>
+
+                <div class='field'>
+                  <label class='label'>Message: <textarea class= 'textarea' name="message"></textarea></label>
+                </div>
+                <div class='control'>
+                  <button class='button is-primary' type="submit">Send</button>
+                </div>
+              </form>
             </div>
           </div>
         </div>
