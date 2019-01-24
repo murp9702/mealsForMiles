@@ -16,7 +16,7 @@ pricing:
         - Follow up appointments available
       plan: Nutrition Counseling
       price: '60'
-    - description: ''
+    - description: We make a recipe for you so you don't have to think about it
       items:
         - A one time fee per recipe
         - Recipe development required for Hike Box and Zero Day packages
