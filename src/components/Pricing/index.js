@@ -6,7 +6,7 @@ import PropTypes from 'prop-types'
 const Pricing = ({ data }) => (
   <div className='pricing-table'>
     {data.map(price => (
-      <div key={price.plan} className='column is-half-tablet is-variable' style={{border: '1px solid #eaecee'}}>
+      <div key={price.plan} className='column is-half-tablet is-variable is-rounded' style={{border: '1px solid #eaecee'}}>
         <section className='section'>
           <h4 className='has-text-centered is-size-3 has-text-weight-semibold'>
             {price.plan}

@@ -10,6 +10,7 @@ export default class HTML extends Component {
           <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=no' />
           {this.props.headComponents}
           <link rel='shortcut icon' href={favicon} />
+          <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
         </head>
         <body>
           <div

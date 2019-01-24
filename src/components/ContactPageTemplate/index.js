@@ -41,6 +41,53 @@ const ContactPageTemplate = ({
           )}
         </div>
       </section>
+
+      <section className='formSection'>
+        <div className='container'>
+          <div className='columns'>
+            <div className='column is-5 is-offset-1'>
+
+            <form name='contact' method='POST' data-netlify='true'>
+
+                <div class="field">
+                  <label class="label">Name</label>
+                   <div class="control has-icons-left">
+                     <input class="input is-rounded" type="text" placeholder="Text input"></input>
+                      <span class='icon is-small is-left'>
+                      <i class='fas fa-child'></i>
+                      </span>
+                   </div>
+                </div>
+
+                <div class="field">
+                  <label class="label">Email</label>
+                    <div class="control has-icons-left">
+                      <input class="input is-rounded" type="email" placeholder="Email input"></input>
+                        <span class="icon is-small is-left">
+                        <i class="fas fa-envelope"></i>
+                        </span>
+                    </div>
+                </div>
+
+                <div class='field'>
+                  <label class='label'>Message</label>
+                    <div class='control'>
+                      <textarea class='textarea is-rounded' placeholder='Your message here'></textarea>
+                    </div>
+                </div>
+
+                <div class="control">
+                  <button class="button is-primary">Submit</button>
+                </div>
+
+              </form>
+
+            </div>
+          </div>
+        </div>
+      </section>
+
+
     </div>
   )
 }
