@@ -7,7 +7,10 @@ cover: /img/image-5.jpeg
 tags:
   - nutrition
   - energy
-  - macronutrient
+  - macronutrients
+  - carbohydrates
+  - fat
+  - protein
 meta_title: 'Energy Need and Assessment '
 meta_description: >-
   Proper energy intake during hiking is an essential to keep your body in peak
