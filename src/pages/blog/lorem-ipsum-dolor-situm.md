@@ -11,7 +11,7 @@ tags:
   - carbohydrates
   - fat
   - protein
-meta_title: 'Energy Need and Assessment '
+meta_title: .
 meta_description: >-
   Proper energy intake during hiking is an essential to keep your body in peak
   performance. Carbohydrates, dietary fats, and protein are all important parts
