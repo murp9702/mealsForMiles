@@ -2,7 +2,7 @@
 templateKey: article-page
 title: 'The Role of Carbohydrates, Fats, and Protein in Hiking '
 slug: 'Each macronutrient plays a crucial role in fueling your adventure. '
-date: 2018-03-29T03:55:49.370Z
+date: 2019-01-29T04:55:49.370Z
 cover: /img/image-5.jpeg
 tags:
   - nutrition
