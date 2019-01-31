@@ -50,7 +50,7 @@ const ContactPageTemplate = ({
           <div className='columns'>
             <div className='column is-5 is-offset-1'>
 
-            <form name='contact' method='POST' data-netlify='true'>
+            <form name='contact' method='POST' data-netlify=true>
 
                 <div class="field">
                   <label class="label">Name</label>
@@ -101,32 +101,32 @@ const ContactPageTemplate = ({
 
               <form name="contact" method="POST" data-netlify="true">
 
-                <div class='field'>
-                  <label class='label'>Your Name: </label>
-                    <div class='control has-icons-left'>
-                      <input class='input is rounded'type="text" name="name" />
-                      <span class='icon is-small is-left'>
-                      <i class='fas fa-child'></i>
+                <div className='field'>
+                  <label className='label'>Your Name: </label>
+                    <div className='control has-icons-left'>
+                      <input className='input is rounded' type="text" name="name" />
+                      <span className='icon is-small is-left'>
+                      <i className='fas fa-child'></i>
                       </span>
                   </div>
                 </div>
 
 
-                <div class='field'>
-                  <label class='label'>Your Email:</label>
-                    <div class='control has-icons-left'>
-                     <input class='input' type="email" name="email"></input>
-                      <span class='icon is-small is-left'>
-                      <i class='fas fa-envelope'></i>
+                <div className='field'>
+                  <label className='label'>Your Email:</label>
+                    <div className='control has-icons-left'>
+                     <input className='input' type="email" name="email"></input>
+                      <span className='icon is-small is-left'>
+                      <i className='fas fa-envelope'></i>
                       </span>
                     </div>
                 </div>
 
-                <div class='field'>
-                  <label class='label'>Message: <textarea class= 'textarea' name="message"></textarea></label>
+                <div className='field'>
+                  <label className='label'>Message: <textarea className= 'textarea' name="message"></textarea></label>
                 </div>
-                <div class='control'>
-                  <button class='button is-primary' type="submit">Send</button>
+                <div className='control'>
+                  <button className='button is-primary' type="submit">Send</button>
                 </div>
               </form>
             </div>

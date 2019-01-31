@@ -12,7 +12,7 @@ const NavBar = ({toggleNavbar, isActive}) => (
             }
         `}
     render={data => (
-      <nav className='navbar is-fixed-top' is-warning aria-label='main navigation'>
+      <nav className='navbar is-fixed-top' aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
             <strong>Meals to Miles</strong>

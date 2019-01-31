@@ -18,7 +18,7 @@ meta_description: >-
   of the diet. It is even more important that they remain in proper balance to
   suit your body's needs.
 ---
-**Energy Assessment **
+**Energy Assessment**
 
 Estimated Calories (kcal) are used to measure the amount of energy needed to sustain  a  task over a 24 hour period. The amount of energy (or kcal) needed to thru hike varies greatly amongst backpackers. When calculating energy needs of backpackers, there are several variables that can affect kcal needs. Variables include age, sex, training level, environment, base weight, average mileage, terrain, and past medical history.
 
