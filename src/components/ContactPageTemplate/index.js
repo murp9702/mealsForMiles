@@ -99,7 +99,7 @@ const ContactPageTemplate = ({
             <div className='column is-5 is-offset-1'>
 
 
-              <form name="contact" method="POST" data-netlify="true">
+              <form name="contact" method="POST" action="success" data-netlify="true">
 
                 <div className='field'>
                   <label className='label'>Your Name: </label>
