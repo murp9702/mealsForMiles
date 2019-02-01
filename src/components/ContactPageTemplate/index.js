@@ -99,7 +99,7 @@ const ContactPageTemplate = ({
             <div className='column is-5 is-offset-1'>
 
 
-              <form name="contact" method="POST" action="success" data-netlify-honeypot="bot-field" data-netlify="true">
+              <form name="contact" netlify method="POST" data-netlify-honeypot="bot-field">
 
                <input type="hidden" name="form-name" value="contact" />
 
@@ -117,7 +117,7 @@ const ContactPageTemplate = ({
                 <div className='field'>
                   <label className='label'>Your Email:</label>
                     <div className='control has-icons-left'>
-                     <input className='input' type="email" name="email"></input>
+                     <input className='input' type="text" name="email"></input>
                       <span className='icon is-small is-left'>
                       <i className='fas fa-envelope'></i>
                       </span>
@@ -125,10 +125,10 @@ const ContactPageTemplate = ({
                 </div>
 
                 <div className='field'>
-                  <label className='label'>Message: <textarea className= 'textarea' name="message"></textarea></label>
+                  <label className='label'>Message: <input type="text" className='textarea' name="message"></input></label>
                 </div>
                 <div className='control'>
-                  <button className='button is-primary' type="submit">Send</button>
+                  <button className='button is-primary submit' type="submit">Send</button>
                 </div>
               </form>
             </div>
