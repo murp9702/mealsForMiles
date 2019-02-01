@@ -99,7 +99,9 @@ const ContactPageTemplate = ({
             <div className='column is-5 is-offset-1'>
 
 
-              <form name="contact" method="POST" action="success" data-netlify="true">
+              <form name="contact" method="POST" action="success" data-netlify-honeypot="bot-field" data-netlify="true">
+
+               <input type="hidden" name="form-name" value="contact" />
 
                 <div className='field'>
                   <label className='label'>Your Name: </label>
