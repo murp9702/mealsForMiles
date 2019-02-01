@@ -74,7 +74,7 @@ module.exports = {
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
         enableIdentityWidget: true,
-        htmlTitle: `TLCB Content Manager`,
+        htmlTitle: `Content Manager`,
       },
     },
     {
@@ -87,7 +87,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-tagmanager`,
       options: {
-        id: config.googleTagManagerID,
+        id: 'GTM-TTWFKQN',
         includeInDevelopment: false,
       },
     },
