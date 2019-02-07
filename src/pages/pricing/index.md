@@ -8,16 +8,14 @@ pricing:
     you are looking for a service that you do not see on our website. 
   heading: Custom Freeze-Dried Meals
   plans:
-    - description: >-
-        Your body is your most important piece of gear. Find out what you need
-        to fuel it properly!
+    - description: 'Have a plan of your own but need the ingredients? '
       items:
         - 60 minute session with a Registered Dietitian
         - Personalized approach based on your nutrition and adventure goals
         - Email access to a Registered Dietitian for questions
         - Follow up appointments available
-      plan: Nutrition Counseling
-      price: '60.00'
+      plan: 'Section Hike '
+      price: ''
     - description: 'We develop custom recipes to meet your dietary needs and preferences. '
       items:
         - A one time fee per recipe
