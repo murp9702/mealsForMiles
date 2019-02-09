@@ -8,14 +8,6 @@ pricing:
     you are looking for a service that you do not see on our website. 
   heading: Custom Freeze-Dried Meals
   plans:
-    - description: 'Have a plan of your own but need the ingredients? '
-      items:
-        - 60 minute session with a Registered Dietitian
-        - Personalized approach based on your nutrition and adventure goals
-        - Email access to a Registered Dietitian for questions
-        - Follow up appointments available
-      plan: 'Section Hike '
-      price: ''
     - description: 'We develop custom recipes to meet your dietary needs and preferences. '
       items:
         - A one time fee per recipe
@@ -24,6 +16,13 @@ pricing:
         - Recipes are kept on file so you can use it for every adventure!
       plan: 'Recipe Development '
       price: '30.00'
+    - description: 'Have your own recipe but need the ingredients? '
+      items:
+        - We offer a variety of ingredients at wholesale prices
+        - Order the exact quantity that you need. No more waste or leftovers!
+        - Contact us for a list of ingredients and prices
+      plan: 'Section Hike '
+      price: ''
     - description: >-
         We provide you with custom recipes and the materials for you to assemble
         your meals.
