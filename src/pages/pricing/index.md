@@ -18,7 +18,7 @@ pricing:
       price: '30.00'
     - description: 'Have your own recipe but need the ingredients? '
       items:
-        - We offer a variety of ingredients at wholesale prices
+        - We offer a variety of ingredients at low prices
         - Order the exact quantity that you need. No more waste or leftovers!
         - Contact us for a list of ingredients and prices
       plan: 'Section Hike '
