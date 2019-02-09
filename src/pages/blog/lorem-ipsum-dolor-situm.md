@@ -42,4 +42,17 @@ Aerobic (meaning with oxygen) metabolism happens when an athlete is below 65% of
 
  Unfortunately, the most accurate way to test the different consumption levels of oxygen must be done in a controlled lab. However, estimations of oxygen limits can be made using the heart rate after exercise. It is important to keep in mind that oxygen thresholds change after training. In order to get the best estimate, it is recommended to measure the the heart rate once a hiker is fully trained or has been hiking for a few weeks. If a hiker is untrained at the time of the assessment, the heart rate can still be taken and predictions of oxygen consumption thresholds can still be made. The margin of error will just be a little larger since estimations are made from population averages and not an individual's specific needs. 
 
-Another great way to estimated oxygen usage is the “talk test”. The “talk test” is an easy test to measure maximum oxygen while hiking. It is not as accurate as measuring heart rate, but more practical. The amount that you are able to talk while hiking can be an accurate indicator of the type of metabolism that your body is undergoing.  Refer to the left graphs below to assess metalism of each macronutrient.
+Another great way to estimated oxygen usage is the “talk test”. The “talk test” is an easy test to measure maximum oxygen while hiking. It is not as accurate as measuring heart rate, but more practical. The amount that you are able to talk while hiking can be an accurate indicator of the type of metabolism that your body is undergoing.  Refer to the graphs below to assess metabolism of each macronutrient.
+
+![]()
+
+****
+
+**Tips to Prevent Weight Loss **
+
+* Weight loss greater than 1 pound per week can affect performance. Trail angels, hotel gyms, and gear shops often have scales available for use. Track weight on a regular basis to make sure that you are not losing weight too quickly. 
+* Eat energy dense, easy-to-chew foods to prevent weight loss. Foods such as Justin's nut butters, freeze dried soup mixes, mashed potatoes, granola bars, fruit leather, and trail mix are all foods that are energy dense.
+* Add olive oil to foods to increase calories. Small oil bottles can be purchased at many grocery stores or individual serving packets can be purchased online. 
+* Drinking calorie containing beverages is an simple way to keep weight on without needing to take long breaks. Bring gatorade mix to mix into your water and enjoy hot chocolate in the evenings!
+* Keep snacks in an easy access pocket. Snacks such has granola bars, trail mix, jerky, nuts, fruit leathers, etc. do not require you to stop and eat. 
+* Portion out a day’s worth of snacks and meals. This will help you recognize and ensure that you are eating enough food.
