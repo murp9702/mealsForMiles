@@ -25,7 +25,7 @@ pricing:
       price: ''
     - description: >-
         We provide you with custom recipes and the materials for you to assemble
-        your meals.
+        your own meals.
       items:
         - Pick the packaging to fit your adventure needs
         - Ingredients are shipped to you with instructions on how to assemble
