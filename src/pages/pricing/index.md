@@ -22,7 +22,7 @@ pricing:
         - Order the exact quantity that you need. No more waste or leftovers!
         - Contact us for a list of ingredients and prices
       plan: 'Section Hike '
-      price: ''
+      price: '20.00'
     - description: >-
         We provide you with custom recipes and the materials for you to assemble
         your own meals.
