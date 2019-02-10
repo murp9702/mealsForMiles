@@ -44,9 +44,9 @@ Aerobic (meaning with oxygen) metabolism happens when an athlete is below 65% of
 
 Another great way to estimated oxygen usage is the “talk test”. The “talk test” is an easy test to measure maximum oxygen while hiking. It is not as accurate as measuring heart rate, but more practical. The amount that you are able to talk while hiking can be an accurate indicator of the type of metabolism that your body is undergoing.  Refer to the graphs below to assess metabolism of each macronutrient.
 
-![]()
+![](/img/carb-and-fat-metabolism-.png)
 
-****
+- - -
 
 **Tips to Prevent Weight Loss **
 
