@@ -8,7 +8,7 @@ const ContactPageTemplate = ({
   subtitle,
   meta_title,
   meta_description,
- {/* contacts, */}
+
 }) => {
   return (
     <div>
@@ -33,15 +33,8 @@ const ContactPageTemplate = ({
             </div>
           </div>
         </div>
-  {/*    </section>
-      <section className='section'>
-        <div className='container'>
-          {contacts.map((contact, id) =>
-            <Contact key={id} email={contact.email} description={contact.description} />
-          )}
-        </div>
       </section>
-  */}
+
 
 {/*
 
@@ -146,7 +139,7 @@ ContactPageTemplate.propTypes = {
   subtitle: PropTypes.string,
   meta_title: PropTypes.string,
   meta_description: PropTypes.string,
- {/* contacts: PropTypes.array, */}
+
 
 }
 
