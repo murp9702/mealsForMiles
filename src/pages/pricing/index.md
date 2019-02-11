@@ -42,7 +42,7 @@ pricing:
         - Prices starting at $12.00 per meal
         - Contact us for a personalized quote
       plan: Zero Day
-      price: $12.00+
+      price: $10.00+
 meta_title: Services| Meals to Miles
 meta_description: Services
 ---
