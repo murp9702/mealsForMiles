@@ -5,7 +5,7 @@ image: /img/mix-of-dried-fruits-picture-id156213698.jpg
 pricing:
   description: >-
     All our services are customizable to fit your needs. Please contact us if
-    you are looking for a service that you do not see on our website. 
+    you are looking for a service that you do not see on our website.
   heading: Custom Freeze-Dried Meals
   plans:
     - description: 'We develop custom recipes to meet your dietary needs and preferences. '
