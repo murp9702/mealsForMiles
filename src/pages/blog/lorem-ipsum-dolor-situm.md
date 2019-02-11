@@ -11,7 +11,7 @@ tags:
   - carbohydrates
   - fat
   - protein
-meta_title: .
+meta_title: 'Role of Carbs, Fats, and Protein in Hiking'
 meta_description: >-
   Proper energy intake during hiking is an essential to keep your body in peak
   performance. Carbohydrates, dietary fats, and protein are all important parts
