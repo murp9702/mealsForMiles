@@ -48,7 +48,7 @@ Another great way to estimated oxygen usage is the “talk test”. The “talk 
 
 - - -
 
-**Tips to Prevent Weight Loss **
+**Tips to Prevent Weight Loss**
 
 * Weight loss greater than 1 pound per week can affect performance. Trail angels, hotel gyms, and gear shops often have scales available for use. Track weight on a regular basis to make sure that you are not losing weight too quickly. 
 * Eat energy dense, easy-to-chew foods to prevent weight loss. Foods such as Justin's nut butters, freeze dried soup mixes, mashed potatoes, granola bars, fruit leather, and trail mix are all foods that are energy dense.
