@@ -38,21 +38,27 @@ Depending on the intensity and type of exercise, the body utilizes different mac
 
 Aerobic (meaning with oxygen) metabolism happens when an athlete is below 65% of their maximum oxygen consumption limit. During this time, the body can get an ample amount of oxygen to your muscles. This type of metabolism happens during  a slow, steady hiking pace and when a hiker is not experiencing shortness of breathe. During Aerobic exercise, fat and carbs are the main sources of energy. 
 
-“Anaerobic” (meaning without oxygen) metabolism takes place when the amount of oxygen breathed in cannot keep up with the rate of metabolism. The body begins to switch to anaerobic metabolism when a hiker reaches 65% or above their maximum oxygen consumption. In other words, the faster someone hikes and the harder they breath, the more likely they are to be undergoing anaerobic metabolism. The amount of oxygen needed to metabolize fats cannot get to your muscles quickly enough. During Anaerobic metabolism, carbs become the major energy source since they do not require as much oxygen to metabolize. 
+“Anaerobic” (meaning without oxygen) metabolism takes place when the amount of oxygen breathed in cannot keep up with the rate of metabolism. The body begins to switch to anaerobic metabolism when a hiker reaches 65% or above their maximum oxygen consumption. In other words, the faster someone hikes and the harder they breath, the more likely they are to be undergoing anaerobic metabolism. The amount of oxygen needed to metabolize fats cannot get to your muscles quickly enough. During Anaerobic metabolism, carbs become the major energy source since they do not require as much (or any) oxygen to metabolize.
 
- Unfortunately, the most accurate way to test the different consumption levels of oxygen must be done in a controlled lab. However, estimations of oxygen limits can be made using the heart rate after exercise. It is important to keep in mind that oxygen thresholds change after training. In order to get the best estimate, it is recommended to measure the the heart rate once a hiker is fully trained or has been hiking for a few weeks. If a hiker is untrained at the time of the assessment, the heart rate can still be taken and predictions of oxygen consumption thresholds can still be made. The margin of error will just be a little larger since estimations are made from population averages and not an individual's specific needs. 
+Unfortunately, the most accurate way to test the different consumption levels of oxygen must be done in a controlled lab. However, estimations of oxygen limits can be made using the heart rate. It is important to keep in mind that oxygen thresholds change after training. In order to get the best estimate, it is recommended to measure the the heart rate once a hiker is fully trained or has been hiking for a few weeks. If a hiker is untrained at the time of the assessment, the heart rate can still be taken and predictions of oxygen consumption thresholds can still be made. The margin of error will just be a little larger since estimations are made from population averages and not an individual's specific needs. 
 
-Another great way to estimated oxygen usage is the “talk test”. The “talk test” is an easy test to measure maximum oxygen while hiking. It is not as accurate as measuring heart rate, but more practical. The amount that you are able to talk while hiking can be an accurate indicator of the type of metabolism that your body is undergoing.  Refer to the graphs below to assess metabolism of each macronutrient.
+The most practical way for a hiker to estimate oxygen usage is the “talk test”. The “talk test” is an easy test to measure maximum oxygen while hiking. It is not as accurate as measuring heart rate, but more practical. The amount that you are able to talk while hiking can be an accurate indicator of the type of metabolism that your body is undergoing.  Refer to the graphs below to assess metabolism of each macronutrient.
 
 ![](/img/carb-and-fat-metabolism-.png)
 
 - - -
 
-**Tips to Prevent Weight Loss**
+**Tips for Fueling Your Body Correctly**
 
-* Weight loss greater than 1 pound per week can affect performance. Trail angels, hotel gyms, and gear shops often have scales available for use. Track weight on a regular basis to make sure that you are not losing weight too quickly. 
-* Eat energy dense, easy-to-chew foods to prevent weight loss. Foods such as Justin's nut butters, freeze dried soup mixes, mashed potatoes, granola bars, fruit leather, and trail mix are all foods that are energy dense.
-* Add olive oil to foods to increase calories. Small oil bottles can be purchased at many grocery stores or individual serving packets can be purchased online. 
-* Drinking calorie containing beverages is an simple way to keep weight on without needing to take long breaks. Bring gatorade mix to mix into your water and enjoy hot chocolate in the evenings!
-* Keep snacks in an easy access pocket. Snacks such has granola bars, trail mix, jerky, nuts, fruit leathers, etc. do not require you to stop and eat. 
-* Portion out a day’s worth of snacks and meals. This will help you recognize and ensure that you are eating enough food.
+* It is best to keep a steady pace when hiking. Aim to be able to talk in 1-2 sentence or 1-2 word responses. 
+* Its natural for muscles to be sore after hiking but continued soreness, over several days, can mean that your muscles are not getting the correct fuel to function. Muscle soreness is often caused from lactic acid build up from Anaerobic metabolism. To prevent lactic acid build up, consume more carbohydrates and hike at a slower pace until your muscles can adapt. 
+* Eat a variety of fats, carbohydrates, and protein at every meal. 
+* Aim to eat a snack at every break to make sure you always have fuel readily available for your body to use. 
+* Try to eat dinner within 30 minutes of stopping for the day. Since your heart rate is still increased from hiking, increased blood flow with help your muscled and liver utilize nutrients more efficiently. 
+* Mix water with gatorade powder to help get extra calories from carbohydrates and important electrolytes. 
+
+****
+
+****
+
+****
