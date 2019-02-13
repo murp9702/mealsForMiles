@@ -11,23 +11,21 @@ tags:
 meta_title: 'Carbohydrate Metabolism and Thru Hiking '
 meta_description: 'Carbohydrate Metabolism andThru Hiking '
 ---
-**Carbohydrate Metabolism and Thru Hiking**
+Carbs are the predominant source of fuel during moderate to intense exercise (>65% of maximum oxygen consumption). Carbohydrates require 77% less oxygen than fat to metabolize making them the ideal energy source during anaerobic exercise. Carbs contain 4 kcal per gram. Energy from high carb foods is metabolized quickly into glucose. Glucose can immediately be used as energy or is can be stored for later as glycogen. 
 
-	Carbs are the predominant source of fuel during moderate to intense exercise (>65% of maximum oxygen consumption). Carbohydrates require 77% less oxygen than fat to metabolize making them the ideal energy source during anaerobic exercise. Carbs contain 4 kcal per gram. Energy from high carb foods is metabolized quickly into glucose. Glucose can immediately be used as energy or is can be stored for later as glycogen. 
-
-	Glucose is stored as glycogen in the liver and in the muscle. Liver glycogen can store 400 kcal worth of energy. Once fully trained, muscle glycogen can store up to 1,600 kcal of energy. There is a direct relationship between the amount of muscle glycogen and the endurance level of an athlete. Because of the strong correlation, it is vital to maintain proper glycogen stores and replenish them appropriately. When glycogen stores are depleted, it is often referred to as “bonking out”. It can result in hypoglycemia and can ultimately lead to a coma if not attended to immediately. When glycogen stores are fully depleted, it takes 24-48 hours to replenish. Taking zero and nero days once a week can ensure that glycogen stores are adequately replenished. 
+Glucose is stored as glycogen in the liver and in the muscle. Liver glycogen can store 400 kcal worth of energy. Once fully trained, muscle glycogen can store up to 1,600 kcal of energy. There is a direct relationship between the amount of muscle glycogen and the endurance level of an athlete. Because of the strong correlation, it is vital to maintain proper glycogen stores and replenish them appropriately. When glycogen stores are depleted, it is often referred to as “bonking out”. It can result in hypoglycemia and can ultimately lead to a coma if not attended to immediately. When glycogen stores are fully depleted, it takes 24-48 hours to replenish. Taking zero and nero days once a week can ensure that glycogen stores are adequately replenished. 
 
 **Carbohydrates Before Hiking **
 
-	Breakfast is important to wake up the metabolism before hiking. A balanced breakfast of protein, fat, and carb sources should be consumed. It is recommended that the carb sources consumed comes from whole food sources. Whole food sources keep the blood glucose levels from increasing too quickly and provide a sustained amount of energy. Eating protein and fat during the same meal will keep blood sugar levels from rising as well. It will also prevent hikers from becoming hungry shortly into the hike. 
+Breakfast is important to wake up the metabolism before hiking. A balanced breakfast of protein, fat, and carb sources should be consumed. It is recommended that the carb sources consumed comes from whole food sources. Whole food sources keep the blood glucose levels from increasing too quickly and provide a sustained amount of energy. Eating protein and fat during the same meal will keep blood sugar levels from rising as well. It will also prevent hikers from becoming hungry shortly into the hike. 
 
 ** Carbohydrates During Hiking**
 
-	Consuming carbs during exercise can  help prevent the depletion of glycogen stores and help hikers increase their endurance levels. The maximum metabolism of carbohydrates during exercise cannot exceed 1 g/minute. Excessive carb intake can result in gastrointestinal distress. 
+Consuming carbs during exercise can  help prevent the depletion of glycogen stores and help hikers increase their endurance levels. The maximum metabolism of carbohydrates during exercise cannot exceed 1 g/minute. Excessive carb intake can result in gastrointestinal distress. 
 
 **Carbohydrates After Hiking**
 
-	Carbohydrate loading is popular amongst endurance athletes because it ensures that glycogen stores are full before a competition begins. Since thru hiking lasts for several months, carb loading needs to happen daily to maintain glycogen stores. High carb foods should be eaten as soon as possible after stopping for the day. The evening meal should consist of a mixture of carbohydrate rich foods and a protein source. Due to the increased heart rate after hiking, eating the meal within 30 minutes of stopping helps circulate the nutrients and replenish glycogen stores quickly. Eating a serving of protein helps facilitate the glycogen storing process because of the hormone regulation needed to build glycogen. 
+Carbohydrate loading is popular amongst endurance athletes because it ensures that glycogen stores are full before a competition begins. Since thru hiking lasts for several months, carb loading needs to happen daily to maintain glycogen stores. High carb foods should be eaten as soon as possible after stopping for the day. The evening meal should consist of a mixture of carbohydrate rich foods and a protein source. Due to the increased heart rate after hiking, eating the meal within 30 minutes of stopping helps circulate the nutrients and replenish glycogen stores quickly. Eating a serving of protein helps facilitate the glycogen storing process because of the hormone regulation needed to build glycogen. 
 
 **Carbohydrate Containing Foods**
 
