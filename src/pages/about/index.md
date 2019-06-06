@@ -6,7 +6,7 @@ meta_description: About Meals to Miles
 ---
 # We Fuel Adventures.
 
-When my husband and I hiked the Pacific Crest Trail in 2015, we made our own custom freeze-dried meals. Flavor, price, and nutrition were aspects of our backpacking meals that we were not willing to sacrifice. After hours of pouring over recipe books and scouring the internet, we settled on 8 nutritious meals for our journey. 
+When my husband and I hiked the Pacific Crest Trail in 2015, we made our own custom freeze-dried meals. Flavor, price, and nutrition were aspects of our backpacking meals that we were not willing to sacrifice. After hours of pouring over recipe books and scouring the internet, we settled on eight nutritious meals for our journey. 
 
 But having custom, nutritious meals for every journey should be easier... and that is how Meal to Miles was born!
 
