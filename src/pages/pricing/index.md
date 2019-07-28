@@ -38,7 +38,7 @@ pricing:
         adventure! 
       items:
         - Pick the packaging to fit your adventure needs
-        - Meals shipped to your house ready to go!
+        - Meals shipped to your house (or trail) ready to go!
         - Prices starting at $12.00 per meal
         - Contact us for a personalized quote
       plan: Zero Day
