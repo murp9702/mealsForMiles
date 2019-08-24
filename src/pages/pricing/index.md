@@ -27,24 +27,31 @@ pricing:
       price: Contact Us
     - description: >-
         We provide you with custom recipes and the materials for you to assemble
-        your own meals.
+        your own meals so you can customize your own flavor or add your own
+        ingredients!
       items:
+        - >-
+          One-time Recipe Development fee required per recipe (see service
+          above)
         - Pick the packaging to fit your adventure needs
         - Ingredients are shipped to you with instructions on how to assemble
-        - Prices starting at $7.00 per meal
+        - Prices starting at $6.00 per meal
         - Contact us for a personalized quote
       plan: Hiker Box
-      price: $7.00+
+      price: $6.00+
     - description: >-
         Let us handle all the logistics while you day dream about your next
         adventure! 
       items:
+        - >-
+          One-time Recipe Development fee required per recipe (see service
+          above)
         - Pick the packaging to fit your adventure needs
         - Meals shipped to your house (or trail) ready to go!
-        - Prices starting at $12.00 per meal
+        - Prices starting at $9.00 per meal
         - Contact us for a personalized quote
       plan: Zero Day
-      price: $10.00+
+      price: $9.00+
 meta_title: Services| Meals to Miles
 meta_description: Services
 ---
