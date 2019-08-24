@@ -5,15 +5,17 @@ image: /img/mix-of-dried-fruits-picture-id156213698.jpg
 pricing:
   description: >-
     All our services are customizable to fit your needs. Please contact us if
-    you are looking for a service that you do not see on our website.
+    you are looking for a service that you do not see on our website. We may be
+    able to help!
   heading: Custom Freeze-Dried Meals
   plans:
     - description: 'We develop custom recipes to meet your dietary needs and preferences. '
       items:
         - A one time fee per recipe
-        - Recipe development required for Hike Box and Zero Day packages
         - Samples of your meal are sent to you for your approval
-        - Recipes are kept on file so you can use it for every adventure!
+        - >-
+          Recipes are sent to you with Macro information and ingredient sourcing
+          information
       plan: 'Recipe Development '
       price: $30.00
     - description: 'Have your own recipe but need the ingredients? '
@@ -21,7 +23,7 @@ pricing:
         - We offer a variety of ingredients at low prices
         - Order the exact quantity that you need. No more waste or leftovers!
         - Contact us for a list of ingredients and prices
-      plan: 'Section Hike '
+      plan: Ingredient Purchasing
       price: Contact Us
     - description: >-
         We provide you with custom recipes and the materials for you to assemble
