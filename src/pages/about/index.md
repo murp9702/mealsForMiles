@@ -20,4 +20,4 @@ We look forward to fueling your next adventure!
 
 # Meet "Smiles"
 
-Hannah "Smiles" Murphy is a registed dietitian, culinary graduate, and the hiker behind "Meals for Miles". When not dreaming about creating tasty meals, "Smiles" works as the Director of Nutrition and Clinical Dietetics in a Northern Colorado hospital. Smiles enjoys traveling, biking, cooking, snuggling her Border Collie, and spending time with her busy toddler.
+Hannah "Smiles" Murphy is a Registered Dietitian, culinary graduate, and the hiker behind "Meals for Miles". When not dreaming about creating tasty meals, "Smiles" works as the Director of Nutrition and Clinical Dietetics in a Northern Colorado hospital. Smiles enjoys traveling, biking, cooking, snuggling her Border Collie, and spending time with her busy toddler.
